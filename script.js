@@ -1,12 +1,16 @@
 //Declare variables using const for your name, age, and height. Assign appropriate values to these variables.
 
 const name = "Aishah";
+console.log(name);
 const age = "30";
+console.log(age);
 const height = "165cm";
+console.log(height);
 
 //Declare variables using let for your bio and address. ReAssign the value for address and log out the response.
 
 let bio = "Full-stack developer student at Labano Academy";
+console.log(bio);
 let address = "Lagos, Nigeria";
 address = "Ketu, Lagos, Nigeria";
 console.log(address);
